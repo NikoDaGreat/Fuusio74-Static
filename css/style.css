@@ -683,6 +683,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
+# Stream Section
+--------------------------------------------------------------*/
+
+#stream {
+  background: url("../img/elokuvateatteri.jpg") top no-repeat ;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  color: #fff;
+  padding: 0px 0 0px 0;
+}
+
+
+/*--------------------------------------------------------------
 # Speakers Section
 --------------------------------------------------------------*/
 
