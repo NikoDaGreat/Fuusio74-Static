@@ -653,7 +653,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about:before {
   content: "";
-  background: rgba(103, 4, 10, 0.5);
+  background: rgba(103, 4, 10, 0.96);
   position: absolute;
   bottom: 0;
   top: 0;
