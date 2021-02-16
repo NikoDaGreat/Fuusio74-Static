@@ -1104,7 +1104,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: rgb(12, 2, 39);
 }
 
-#sponsors .sponsor-logo {
+#sponsors .logo-spot {
   padding: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1122,7 +1122,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 160px;
 }
 
-#sponsors .sponsor-logo:hover img {
+#sponsors .logo-spot:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
